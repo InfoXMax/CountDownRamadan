@@ -30,7 +30,7 @@ h1{
 }
 @media (max-width: 767px) {
     h1 {
-      font-size: 20px;
+      font-size: 30px;
       margin: -100px;
     }
   }
@@ -134,7 +134,8 @@ span.text{
   @media (max-width: 767px) {
     #text-container {
       font-size: 20px;
-      margin: 150%;
+      margin: 140%;
+      bottom: -1;
     }
   }
 .fade-out {
